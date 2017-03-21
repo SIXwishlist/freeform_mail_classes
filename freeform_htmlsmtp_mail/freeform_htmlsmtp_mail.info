@@ -1,0 +1,8 @@
+name = Freeform Mimemail - HTMLMail class
+description = Provides integration class for Mimemail and HTMLMail. Used by Mailsystem.
+package = Custom
+core = 7.x
+dependencies[] = htmlmail
+dependencies[] = smtp
+dependencies[] = mailsystem
+files[] = freeform_mimehtml_mail.inc

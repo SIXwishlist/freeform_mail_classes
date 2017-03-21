@@ -1,0 +1,8 @@
+name = Freeform Mimemail - SMTP class
+description = Provides integration class for Mimemail and SMTP. Used by Mailsystem.
+package = Custom
+core = 7.x
+dependencies[] = mimemail
+dependencies[] = smtp
+dependencies[] = mailsystem
+files[] = freeform_mimesmtp_mail.inc
